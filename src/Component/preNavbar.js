@@ -10,7 +10,7 @@ const preNavbar = () => {
   return (
     <div className="preNav">
       <div>
-        <a href="https://www.mi.com/in/">MI INDIA</a> <span>|</span>
+        <a href="https://www.mi.com/in/">MI PAKISTAN</a> <span>|</span>
         <a href="https://in.event.mi.com/in/install-mi-store">
           GET MI STORE APP
         </a>{" "}
